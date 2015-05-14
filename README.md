@@ -1,4 +1,4 @@
-bugfreejs
+fattyfreejs
 =========
 
 肥宅保佑，永无bug
